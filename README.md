@@ -79,7 +79,7 @@
 
 <div align="center">
 
-*Always happy to connect with people who are learning AI/ML and DSA too.*
+*Always happy to connect with other coding enthusiasts!*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%" />
 

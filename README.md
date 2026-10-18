@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Kunal Misra 👋
 
-<!--
-**garfield-404/garfield-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IIITN'29 student
+🤖 Interested in Artificial Intelligence and Machine Learning 
+📚 Currently learning Machine Learning
+🌱 Building my foundations in DSA, one step at a time
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-in%20progress-orange?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-curious-blue?style=for-the-badge)
+
+## 🎯 What I'm working towards
+
+- Understanding core ML concepts properly, not just using libraries
+- Moving from beginner Python projects to real ML and AI work
+- Learning in public and improving a little every day
+
+## 📫 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Misra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-misra-b34a4536a)
+
+*Always happy to connect with people who are learning AI/ML too.*

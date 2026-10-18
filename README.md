@@ -1,7 +1,7 @@
 # Hi there, I'm Kunal Misra 👋
 
 🎓 IIITN'29 student
-🤖 Interested in Artificial Intelligence and Machine Learning 
+🤖 Interested in Artificial Intelligence and Machine Learning
 📚 Currently learning Machine Learning
 🌱 Building my foundations in DSA, one step at a time
 
@@ -9,12 +9,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-in%20progress-orange?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-curious-blue?style=for-the-badge)
+![AI](https://img.shields.io/badge/AI-exploring-blue?style=for-the-badge)
 
 ## 🎯 What I'm working towards
 
 - Understanding core ML concepts properly, not just using libraries
-- Moving from beginner Python projects to real ML and AI work
+- Moving from beginner Python projects to real AI and ML work
 - Learning in public and improving a little every day
 
 ## 📫 Let's connect

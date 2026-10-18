@@ -15,7 +15,7 @@
 - 🎓 IIITN'29 student
 - 🤖 Interested in Artificial Intelligence and Machine Learning
 - 📚 Currently learning Machine Learning
-- 🌱 Building my foundations in Python, one step at a time
+- 🌱 Building my foundations in DSA, one step at a time
 
 ## 🛠️ Tech & Interests
 

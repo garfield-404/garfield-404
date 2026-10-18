@@ -45,14 +45,6 @@
   </a>
 </div>
 
-### GeeksforGeeks
-
-<div align="center">
-  <a href="https://www.geeksforgeeks.org/profile/kunalmi83n9">
-    <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=kunalmi83n9&theme=dark" alt="GeeksforGeeks stats" />
-  </a>
-</div>
-
 ### CodeChef
 
 <div align="center">
@@ -68,6 +60,9 @@
 ### Other Profiles
 
 <div align="center">
+  <a href="https://www.geeksforgeeks.org/profile/kunalmi83n9">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
   <a href="https://codolio.com/profile/anakinvader07">
     <img src="https://img.shields.io/badge/Codolio-Profile-6C47FF?style=for-the-badge" />
   </a>
